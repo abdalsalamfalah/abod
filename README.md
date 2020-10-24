@@ -1,3 +1,0 @@
-"# abody" 
-# abod
-"# reg" 
